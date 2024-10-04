@@ -18,3 +18,5 @@ To run this project, ensure you have Python 3.7 or above installed. Then, follow
  
 github repo: https://github.com/JefriSuparjana/streamlit-dashboard-dicoding
 
+## For Notebook
+just run the all of code
