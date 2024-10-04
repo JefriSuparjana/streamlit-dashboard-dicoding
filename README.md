@@ -11,7 +11,10 @@ This project provides an interactive dashboard for analyzing bike sharing data. 
 ## Installation
 To run this project, ensure you have Python 3.7 or above installed. Then, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd submission
+## For dashboard
+1. pip install -r requirements.txt
+2. cd dashboard
+3. python -m streamlit run dashboard.py
+ 
+github repo: https://github.com/JefriSuparjana/streamlit-dashboard-dicoding
+
