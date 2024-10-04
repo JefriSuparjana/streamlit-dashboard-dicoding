@@ -18,8 +18,8 @@ st.write("This dashboard presents insights from the bike sharing dataset.")
 st.write("Analyzing seasonal effects, weather impacts, and user demographics.")
 
 # Load the dataset
-data_day = pd.read_csv('data_1.csv')
-data_hour = pd.read_csv('data_2.csv')
+data_day = pd.read_csv('data/data_1.csv') 
+data_hour = pd.read_csv('data/data_2.csv') 
 
 # Home Section
 if options == "Home":
